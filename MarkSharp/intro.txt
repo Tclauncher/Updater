@@ -1,0 +1,25 @@
+# <font color=deepskyblue>MarkSharp</font>
+<font color=deepskyblue>The OS Editor For MarkDown</font>
+<br>
+<font size=2 >Copyright @Tclauncher &emsp;   Core by @Jeff Atwood </font>
+<br>
+### Press Ctrl+N to start your writing
+<br>
+> ###### NOTICE | 告示
+> zh-cn
+>> 假如有建议或bug，请发邮件至[taswel@qq.com](taswel@qq.com)<br>（其实这是用来写作业的）
+
+> ###### Intro | 介绍
+> zh-cn
+>> 这是一个简单的Markdown编辑器,中间那个条是可以拉的<br>
+>> 一些快捷键（因为没有按钮，所以写一下）<br>
+>> Ctrl+N :新建文件<br>
+>> Ctrl+O :打开文件<br>
+>> Ctrl+S :保存文件<br>
+>> Ctrl+Alt+R :红色字<br>
+>> Ctrl+Alt+G :绿色字<br>
+>> Ctrl+Alt+B :蓝色字<br>
+>> Ctrl+Shift+**C**ode:召唤代码块<br>
+>> Ctrl+Shift+**B**lock:召唤表格<br>
+>> Ctrl+Shift+**L**ink:召唤链接<br>
+>> Ctrl+Shift+**P**ictrue:召唤图片<br>
